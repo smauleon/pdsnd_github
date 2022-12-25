@@ -215,3 +215,4 @@ if __name__ == "__main__":
     
 #references
 #https://www.datainsightonline.com/post/exploring-us-bikeshare-data-project
+#https://www.w3schools.com/python/pandas/pandas_csv.asp
