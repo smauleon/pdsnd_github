@@ -28,7 +28,7 @@ def get_filters():
         except ValueError:
             print("\nPlease enter a valid city from the list:\n")
 
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: get user input for month (all, january, february, ... , december)
     months = ['all','january','february','march','april','may','june','july','august','september','october','november','december'] 
     while True:
         month = input('\nEnter a month:\n').lower()
